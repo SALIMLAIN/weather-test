@@ -1,0 +1,37 @@
+.container{
+    /* background-color: aqua; */
+    
+
+}
+
+.days{
+    height: 239px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: black; */
+
+}
+.day{
+   
+    font-size: larger;
+    border: 2px solid black;
+    width: 120px;
+    height: 150px;
+    margin: 25px;
+    padding-top: 40px;
+}
+
+.farcast{
+    /* background-color: antiquewhite; */
+    letter-spacing: 1px;
+
+    height: 400px;
+}
+.city{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+.tempre{
+      font-size: 50px;
+}
