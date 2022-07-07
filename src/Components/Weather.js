@@ -20,11 +20,7 @@ const Weather = () => {
       getWeatherData();
   },[]);
  
-//   _getDayInfo = data => {
-//     const daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
-//     return daysOfWeek[new Date(data[0].dt * 1000).getDay()];
-//   };
-  
+
   return (
     <div className='container'>
        
